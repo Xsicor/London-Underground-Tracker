@@ -1,0 +1,482 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2022-01-19T03:37:08Z",
+    "completeRoute": {
+      "departureNaptanId": "940GZZLUMDN",
+      "destinationNaptanId": "940GZZLUMHL",
+      "via": "940GZZLUBNK"
+    },
+    "combineRoute": {
+      "departureNaptanId": "940GZZLUMDN",
+      "destinationNaptanId": "940GZZLUHBT",
+      "via": "940GZZLUBNK",
+      "connectingRoute": {
+        "departureNaptanId": "940GZZLUMDN",
+        "destinationNaptanId": "940GZZLUFYC"
+      }
+    },
+    "connectingStation": "940GZZLUFYC",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/108124567",
+          "name": "Mill Hill East",
+          "platform": "subway",
+          "public_transport": "platform",
+          "railway": "platform"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2094724,
+              51.6081329
+            ],
+            [
+              -0.2096762,
+              51.6081854
+            ],
+            [
+              -0.2097631,
+              51.6082062
+            ],
+            [
+              -0.2098184,
+              51.6082194
+            ],
+            [
+              -0.2099875,
+              51.608258
+            ],
+            [
+              -0.2102772,
+              51.6083163
+            ],
+            [
+              -0.2105186,
+              51.608363
+            ],
+            [
+              -0.2107492,
+              51.6084064
+            ],
+            [
+              -0.2109611,
+              51.6084446
+            ],
+            [
+              -0.2110845,
+              51.6084679
+            ]
+          ]
+        },
+        "id": "way/108124567"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/168546925",
+          "branch": "Mill Hill East",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2068693,
+              51.6071203
+            ],
+            [
+              -0.2066808,
+              51.6070368
+            ]
+          ]
+        },
+        "id": "way/168546925"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/168546926",
+          "branch": "Mill Hill East",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.209513,
+              51.6081065
+            ],
+            [
+              -0.2088774,
+              51.6079267
+            ]
+          ]
+        },
+        "id": "way/168546926"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/168546927",
+          "branch": "Mill Hill East",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2066808,
+              51.6070368
+            ],
+            [
+              -0.2059616,
+              51.6067305
+            ],
+            [
+              -0.2054251,
+              51.6064889
+            ],
+            [
+              -0.204937,
+              51.6062807
+            ],
+            [
+              -0.2046151,
+              51.6061475
+            ],
+            [
+              -0.2042316,
+              51.6059909
+            ],
+            [
+              -0.2035968,
+              51.6057341
+            ],
+            [
+              -0.2030647,
+              51.6055011
+            ]
+          ]
+        },
+        "id": "way/168546927"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/168546931",
+          "branch": "Mill Hill East",
+          "bridge": "yes",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1982932,
+              51.6034192
+            ],
+            [
+              -0.1980786,
+              51.6033208
+            ]
+          ]
+        },
+        "id": "way/168546931"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/168546932",
+          "branch": "Mill Hill East",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2088774,
+              51.6079267
+            ],
+            [
+              -0.2085955,
+              51.6078299
+            ],
+            [
+              -0.2082545,
+              51.6076989
+            ],
+            [
+              -0.2078253,
+              51.6075273
+            ],
+            [
+              -0.2073693,
+              51.6073358
+            ],
+            [
+              -0.2068693,
+              51.6071203
+            ]
+          ]
+        },
+        "id": "way/168546932"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/168546933",
+          "branch": "Mill Hill East",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2011791,
+              51.6046928
+            ],
+            [
+              -0.1998726,
+              51.6041323
+            ],
+            [
+              -0.1991269,
+              51.6038075
+            ],
+            [
+              -0.1982932,
+              51.6034192
+            ]
+          ]
+        },
+        "id": "way/168546933"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/168546934",
+          "alt_name": "Dollis Brook Viaduct",
+          "branch": "Mill Hill East",
+          "bridge": "yes",
+          "bridge:name": "Mill Hill Viaduct",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "layer": "1",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630",
+          "wikidata": "Q13528064"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2011791,
+              51.6046928
+            ],
+            [
+              -0.2030647,
+              51.6055011
+            ]
+          ]
+        },
+        "id": "way/168546934"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/185011101",
+          "branch": "Mill Hill East",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1977939,
+              51.6031849
+            ],
+            [
+              -0.1980786,
+              51.6033208
+            ]
+          ]
+        },
+        "id": "way/185011101"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/185011102",
+          "branch": "Mill Hill East",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.1947366,
+              51.601825
+            ],
+            [
+              -0.1954902,
+              51.602161
+            ],
+            [
+              -0.1962221,
+              51.6024814
+            ],
+            [
+              -0.1967428,
+              51.6027007
+            ],
+            [
+              -0.1972521,
+              51.6029279
+            ],
+            [
+              -0.1977939,
+              51.6031849
+            ]
+          ]
+        },
+        "id": "way/185011102"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/841323373",
+          "branch": "Mill Hill East",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "line": "Northern",
+          "name": "Northern Line (Mill Hill East Branch)",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.2101536,
+              51.6082536
+            ],
+            [
+              -0.209513,
+              51.6081065
+            ]
+          ]
+        },
+        "id": "way/841323373"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/841323374",
+          "electrified": "4th_rail",
+          "frequency": "0",
+          "gauge": "1435",
+          "network": "London Underground",
+          "railway": "subway",
+          "voltage": "630"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.192679,
+              51.6008591
+            ],
+            [
+              -0.1934462,
+              51.6012146
+            ],
+            [
+              -0.1940094,
+              51.6015128
+            ],
+            [
+              -0.1945943,
+              51.6017628
+            ],
+            [
+              -0.1947366,
+              51.601825
+            ]
+          ]
+        },
+        "id": "way/841323374"
+      }
+    ]
+  }

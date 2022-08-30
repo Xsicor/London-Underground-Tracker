@@ -1,0 +1,829 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-01-16T16:22:25Z",
+  "completeRoute": {
+    "departureNaptanId": "940GZZLUWRP",
+    "destinationNaptanId": "940GZZLUHLT",
+    "via": "940GZZLUWOF"
+  },
+  "combineRoute": {
+    "departureNaptanId": "940GZZLUWRP",
+    "destinationNaptanId": "940GZZLUEPG",
+    "via": "null",
+    "connectingRoute": {
+      "departureNaptanId": "940GZZLUWRP",
+      "destinationNaptanId": "940GZZLUWOF"
+    }
+  },
+  "connectingStation": "940GZZLUWOF",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/142411028",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "line": "Central",
+        "name": "Central Line (Hainault towards Woodford)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0408016,
+            51.615811
+          ],
+          [
+            0.0408903,
+            51.6158985
+          ],
+          [
+            0.0409709,
+            51.6159705
+          ],
+          [
+            0.0410582,
+            51.616037
+          ],
+          [
+            0.041186,
+            51.6161282
+          ],
+          [
+            0.0413035,
+            51.6162011
+          ],
+          [
+            0.0413791,
+            51.6162479
+          ]
+        ]
+      },
+      "id": "way/142411028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625414",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "level": "-1",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "network": "London Underground",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0925197,
+            51.6131433
+          ],
+          [
+            0.0926899,
+            51.6130312
+          ],
+          [
+            0.0928419,
+            51.6129207
+          ],
+          [
+            0.09302,
+            51.6127702
+          ],
+          [
+            0.0931955,
+            51.6126119
+          ],
+          [
+            0.0933431,
+            51.6124677
+          ],
+          [
+            0.0934234,
+            51.6123835
+          ],
+          [
+            0.0935057,
+            51.6122858
+          ],
+          [
+            0.093847,
+            51.6118232
+          ],
+          [
+            0.0941992,
+            51.6113779
+          ],
+          [
+            0.094434,
+            51.6110755
+          ],
+          [
+            0.0946475,
+            51.6107804
+          ],
+          [
+            0.0947931,
+            51.6105605
+          ],
+          [
+            0.094879,
+            51.6104013
+          ],
+          [
+            0.0949675,
+            51.6101973
+          ],
+          [
+            0.0950503,
+            51.6099643
+          ],
+          [
+            0.0950941,
+            51.6097917
+          ],
+          [
+            0.095123,
+            51.6096313
+          ],
+          [
+            0.0951373,
+            51.6094355
+          ],
+          [
+            0.095139,
+            51.6091974
+          ],
+          [
+            0.0951067,
+            51.6089621
+          ],
+          [
+            0.0950461,
+            51.6086822
+          ],
+          [
+            0.0943172,
+            51.6062729
+          ],
+          [
+            0.0939918,
+            51.6052049
+          ],
+          [
+            0.0938792,
+            51.6048456
+          ],
+          [
+            0.0938711,
+            51.6048151
+          ],
+          [
+            0.093782,
+            51.6045241
+          ],
+          [
+            0.0936586,
+            51.6041217
+          ]
+        ]
+      },
+      "id": "way/144625414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625421",
+        "bridge": "yes",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0626138,
+            51.6194604
+          ],
+          [
+            0.0634214,
+            51.6194219
+          ]
+        ]
+      },
+      "id": "way/144625421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625423",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0413791,
+            51.6162479
+          ],
+          [
+            0.0416262,
+            51.6163921
+          ],
+          [
+            0.0418408,
+            51.616496
+          ],
+          [
+            0.0420415,
+            51.6165851
+          ],
+          [
+            0.0421781,
+            51.6166418
+          ],
+          [
+            0.0423249,
+            51.6167013
+          ],
+          [
+            0.042493,
+            51.6167626
+          ],
+          [
+            0.0426273,
+            51.6168083
+          ],
+          [
+            0.0429232,
+            51.6169007
+          ],
+          [
+            0.0431893,
+            51.616973
+          ],
+          [
+            0.0435462,
+            51.6170537
+          ],
+          [
+            0.0437686,
+            51.6170977
+          ],
+          [
+            0.0438902,
+            51.6171184
+          ],
+          [
+            0.044119,
+            51.6171562
+          ],
+          [
+            0.0443489,
+            51.6171949
+          ],
+          [
+            0.0460875,
+            51.6174898
+          ]
+        ]
+      },
+      "id": "way/144625423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625427",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0615072,
+            51.6194722
+          ],
+          [
+            0.0626138,
+            51.6194604
+          ]
+        ]
+      },
+      "id": "way/144625427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625431",
+        "bridge": "yes",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0612265,
+            51.6194692
+          ],
+          [
+            0.0615072,
+            51.6194722
+          ]
+        ]
+      },
+      "id": "way/144625431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625434",
+        "bridge": "yes",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.053195,
+            51.6186414
+          ],
+          [
+            0.0536974,
+            51.6187245
+          ]
+        ]
+      },
+      "id": "way/144625434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625436",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "line": "Central",
+        "loading_gauge": "deep-tube",
+        "name": "Central Line (Woodford Branch to Hainault) - Grange Hill Tunnel",
+        "network": "London Underground",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "tunnel": "yes",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.086372,
+            51.6152277
+          ],
+          [
+            0.0892138,
+            51.614389
+          ]
+        ]
+      },
+      "id": "way/144625436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625438",
+        "bridge": "yes",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0460875,
+            51.6174898
+          ],
+          [
+            0.0463035,
+            51.6175273
+          ]
+        ]
+      },
+      "id": "way/144625438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625441",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0463035,
+            51.6175273
+          ],
+          [
+            0.048227,
+            51.6178365
+          ],
+          [
+            0.053195,
+            51.6186414
+          ]
+        ]
+      },
+      "id": "way/144625441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625442",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "level": "-1",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "network": "London Underground",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0892138,
+            51.614389
+          ],
+          [
+            0.0907567,
+            51.6139216
+          ],
+          [
+            0.0911665,
+            51.6137896
+          ],
+          [
+            0.0913564,
+            51.613723
+          ],
+          [
+            0.0915656,
+            51.6136425
+          ],
+          [
+            0.0917625,
+            51.6135569
+          ],
+          [
+            0.0919877,
+            51.613448
+          ],
+          [
+            0.0921964,
+            51.6133344
+          ],
+          [
+            0.0923661,
+            51.6132399
+          ],
+          [
+            0.0925197,
+            51.6131433
+          ]
+        ]
+      },
+      "id": "way/144625442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625444",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "network": "London Underground",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0755211,
+            51.6176969
+          ],
+          [
+            0.0822477,
+            51.6163538
+          ],
+          [
+            0.0840513,
+            51.615908
+          ],
+          [
+            0.086372,
+            51.6152277
+          ]
+        ]
+      },
+      "id": "way/144625444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625452",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0536974,
+            51.6187245
+          ],
+          [
+            0.0543736,
+            51.6188292
+          ],
+          [
+            0.0563836,
+            51.6191411
+          ],
+          [
+            0.0585986,
+            51.619378
+          ],
+          [
+            0.0599733,
+            51.6194503
+          ],
+          [
+            0.0612265,
+            51.6194692
+          ]
+        ]
+      },
+      "id": "way/144625452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144625455",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0634214,
+            51.6194219
+          ],
+          [
+            0.0644789,
+            51.619343
+          ],
+          [
+            0.0654187,
+            51.6192565
+          ],
+          [
+            0.0667194,
+            51.6190722
+          ],
+          [
+            0.0682014,
+            51.6188621
+          ],
+          [
+            0.0726904,
+            51.6181816
+          ],
+          [
+            0.0745671,
+            51.6178774
+          ],
+          [
+            0.0755211,
+            51.6176969
+          ]
+        ]
+      },
+      "id": "way/144625455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144722638",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "network": "London Underground",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.093605,
+            51.6039729
+          ],
+          [
+            0.0935523,
+            51.6038099
+          ],
+          [
+            0.0934045,
+            51.6033117
+          ]
+        ]
+      },
+      "id": "way/144722638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144722640",
+        "bridge": "yes",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "line": "Central",
+        "name": "Central Line (Woodford Branch to Hainault)",
+        "network": "London Underground",
+        "oneway": "yes",
+        "railway": "subway",
+        "source": "yahoo",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0936586,
+            51.6041217
+          ],
+          [
+            0.093605,
+            51.6039729
+          ]
+        ]
+      },
+      "id": "way/144722640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/533839927",
+        "electrified": "4th_rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "line": "Central",
+        "name": "Central Line - Eastbound",
+        "oneway": "yes",
+        "railway": "subway",
+        "voltage": "630"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0339227,
+            51.6066397
+          ],
+          [
+            0.0343524,
+            51.6074789
+          ],
+          [
+            0.0344499,
+            51.6076298
+          ],
+          [
+            0.034878,
+            51.6082928
+          ],
+          [
+            0.0357688,
+            51.6095242
+          ],
+          [
+            0.038396,
+            51.6128188
+          ],
+          [
+            0.0397225,
+            51.6144635
+          ],
+          [
+            0.0408016,
+            51.615811
+          ]
+        ]
+      },
+      "id": "way/533839927"
+    }
+  ]
+}
